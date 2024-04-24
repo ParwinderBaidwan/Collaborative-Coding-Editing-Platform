@@ -1,7 +1,8 @@
 Synopsis: Collaborative Coding Editing Platform
 
 In the fast-paced world of software development, collaboration is key to success. As teams work on projects, the ability to seamlessly edit code together in 
-real-time can significantly enhance productivity and foster creativity. This platform will empower multiple users to work on the same code files simultaneously, facilitating real-time collaboration. 
+real-time can significantly enhance productivity and foster creativity. This platform will empower multiple users to work on the same code files simultaneously,
+facilitating real-time collaboration. 
 
 Features:
 1. User Registration and Authentication:
