@@ -2,17 +2,17 @@ Synopsis: Collaborative Coding Editing Platform
 
 In the fast-paced world of software development, collaboration is key to success. As teams work on projects, the ability to seamlessly edit code together in real-time can significantly enhance productivity and foster creativity. This platform will empower multiple users to work on the same code files simultaneously, facilitating real-time collaboration. 
 
-  Features:
-1.	User Registration and Authentication:
+Features:
+1. User Registration and Authentication:
     •	Users can register for an account or log in with existing credentials.
     •	Authentication ensures secure access to the platform and user-specific data.
-2.	Code File Management:
+2. Code File Management:
     •	Users can create, upload, or import code files into the platform.
     •	Code files are organized into projects or repositories for better management.
-3.	Real-Time Collaboration:
+3. Real-Time Collaboration:
     •	Multiple users can open and edit the same code file simultaneously.
     •	Changes made by one user are instantly reflected in the editor for all collaborators.
-4.	Chat Functionality:
+4. Chat Functionality:
     •	Collaborators can communicate via real-time chat while editing code files.
     •	Chat messages are displayed alongside the code editor for context and convenience.
 
@@ -25,4 +25,3 @@ Technology Stack:
       •	HTML, CSS, and JavaScript for the user interface
       •	React.js for building dynamic components
       •	CodeMirror or Ace Editor for the code editing interface
-
