@@ -13,3 +13,8 @@
 ### Development
 * cd client && npm start (on terminal 1)
 * cd server && npm run server (on terminal 2)
+
+Some screenshots of the project:
+![Screenshot 2024-10-05 223250](https://github.com/user-attachments/assets/37ebe9ce-d4b1-4348-8503-aefa309c2947)
+
+![Screenshot 2024-10-05 223528](https://github.com/user-attachments/assets/205ecd0c-0d54-47b7-a62b-41b44f924104)
